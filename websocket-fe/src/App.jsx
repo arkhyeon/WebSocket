@@ -103,6 +103,7 @@ const Chatting = styled.div`
   width: 100%;
   height: 640px;
   overflow-y: scroll;
+  overflow-x: hidden;
   display: flex;
   flex-direction: column;
   border: 1px solid #ebebeb;

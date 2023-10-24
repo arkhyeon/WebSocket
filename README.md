@@ -1,5 +1,5 @@
 # WebSocket
-<<<<<<< HEAD
+
 ![testpage](./docs/testpage.png)
 ## FE - REACT
 ### WebSocket 불러오기에 시간이 걸리니 내부에서 작성
@@ -36,7 +36,7 @@ Spring Bean은 싱글톤으로 관리하지만 @ServerEndpoint 어노테이션�
 - JWA는 WAS에 설치되어 동작하는 어플리케이션
 - WAS는 DB 조회나 다양한 로직 처리를 요구하는 동적인 컨텐츠를 제공하기 위해 만들어진 Application으로 HTML, CSS, 이미지, 자바로 작성된 클래스(Servlet포함 package, interface 등), 각종 설정 파일 등이 포함 됨
 
-### WebSocketConfiguration.java
+### WebSocketConfiguration.java  
 CORS 정책을 위한 설정
-=======
->>>>>>> origin/main
+
+

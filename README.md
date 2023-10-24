@@ -1,4 +1,5 @@
 # WebSocket
+<<<<<<< HEAD
 ![testpage](./docs/testpage.png)
 ## FE - REACT
 ### WebSocket 불러오기에 시간이 걸리니 내부에서 작성
@@ -37,3 +38,5 @@ Spring Bean은 싱글톤으로 관리하지만 @ServerEndpoint 어노테이션�
 
 ### WebSocketConfiguration.java
 CORS 정책을 위한 설정
+=======
+>>>>>>> origin/main

@@ -24,7 +24,6 @@ function App() {
     ws.current = new WebSocket('ws://localhost:8080/socket/chat');
 
     ws.current.onmessage = message => {
-      console.log(message);
       const dataSet = JSON.parse(message.data);
       setSocketData(dataSet);
     };
